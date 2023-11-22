@@ -1,5 +1,5 @@
-<h1>Hi, I'm Dipankar Boruah! <br/><h3> Data Analyst & Data Storyteller</h3>  </h1>
-
+<h1>Hi, I'm Dipankar Boruah! <h3> Data Analyst & Data Storyteller</h3>  </h1>
+<br/>
 
 <h2> 👨‍💻 Data Analysis Projects:</h2>
 
